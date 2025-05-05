@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deogratias99&label=Profile%20views&color=0e75b6&style=flat" alt="deogratias99" /> </p>
 
-- 🔭 I’m currently working on a Flight Deals Tracker Site
+- 🔭 I’m currently working on a Flight Price Tracker (yes for fun)
 
 - 🌱 I’m currently learning Computing systems and Machine learning
 
