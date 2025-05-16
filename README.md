@@ -48,5 +48,5 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 ## 🌟 Projects
 
-- [Hotel Booking](https://github.com/deogratias99/Hotel-Booking): Check availability and rent a hotel room ().
+- [Hotel Booking](https://github.com/deobibila/Hotel-Booking): Check availability and rent a hotel room ().
 
