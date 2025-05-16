@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 <h3 align="left">Top Projects:</h3>
 <p align="left">
-<a href="https://github.com/deogratias99/Hotel-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=Hotel-Booking"/></a>
-<a href="https://github.com/deogratias99/python-jupyter-book-recommendation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=python-jupyter-book-recommendation" /></a>
+<a href="https://github.com/deobibila/Hotel-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=Hotel-Booking"/></a>
+<a href="https://github.com/deobibila/python-jupyter-book-recommendation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=python-jupyter-book-recommendation" /></a>
 </p>
 
 ## 🌟 Projects
