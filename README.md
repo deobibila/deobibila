@@ -40,13 +40,15 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 <a href="https://kubernetes.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Top Projects:</h3>
+
+<p align="left"><h3 align="left">Top Projects:</h3>
 <p align="left">
-<a href="https://github.com/deobibila/Hotel-Booking.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=Hotel-Booking"/></a>
-<a href="https://github.com/deobibila/python-jupyter-book-recommendation.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=python-jupyter-book-recommendation" /></a>
+  <a href="https://github.com/deobibila/Hotel-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deobibila&repo=Hotel-Booking"/></a>
+  <a href="https://github.com/deobibila/python-jupyter-book-recommendation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deobibila&repo=python-jupyter-book-recommendation" /></a>
 </p>
+
 
 ## 🌟 Projects
 
-- [Hotel Booking](https://github.com/deobibila/Hotel-Booking): Check availability and rent a hotel room ().
+- [Hotel Reservation](https://github.com/deobibila/Hotel-Booking): Check availability and rent a hotel room ().
 
