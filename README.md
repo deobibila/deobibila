@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
    deo@deobibila.tech or deobibila@outlook.com
 
 - ⚡ Fun fact
-  I speak two languages, but you'll never guess which one
+  I speak two languages, but you'll never guess which ones
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
