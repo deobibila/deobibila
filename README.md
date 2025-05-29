@@ -1,4 +1,4 @@
-<p align="center"> # Hi there, I'm Deo! 👋 </p>
+# Hi there, I'm Deo! 👋
 
 Welcome to my GitHub profile! I'm passionate about Software engineering and Machine learning.
 
