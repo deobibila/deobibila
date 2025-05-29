@@ -1,4 +1,4 @@
-# Hi there, I'm Deo! Pronounced (Dio) 👋
+# Hi there, I'm Deo! 👋
 
 Welcome to my GitHub profile! I'm passionate about Software engineering and Machine learning.
 
