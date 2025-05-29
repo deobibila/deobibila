@@ -1,6 +1,6 @@
-# Hi there, I'm Deo! 👋
+<p align="center"> # Hi there, I'm Deo! 👋 </p>
 
-Welcome to my GitHub profile! I'm passionate about Software engineering and Machine learning.
+<p align="center" ><span style="font-weight: bold> Welcome to my GitHub profile! I'm passionate about Software engineering and Machine learning.</span> </p>
 
 <h1 align="center">¡Hola! 👋, Hello!👋, Salut!👋</h1>
 <h3 align="center">Hopefully I can inspire and help people here :) </h3>
