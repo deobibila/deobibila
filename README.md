@@ -15,9 +15,6 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 - 💬 Ask me about my favorite animated movie, anyway it's [The Amazing World of Gumball](https://www.google.com/search?q=The+Amazing+World+of+Gumball)
 
-- 📫 How to reach me
-   deo@deobibila.tech or deobibila@outlook.com
-
 - ⚡ Fun fact
   I speak two languages, but you'll never guess which ones
 
