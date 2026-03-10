@@ -38,7 +38,8 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 <p align="left"><h3 align="left">Top Projects:</h3>
 <p align="left">
-  <a href="https://github.com/deobibila/Hotel-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deobibila&repo=Hotel-Booking"/></a>
+  <a href="https://github.com/deobibila/portfolio-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=deobibila&repo=portfolio-website" alt="portfolio-website repo" />
+</a>
   <a href="https://github.com/deobibila/python-jupyter-book-recommendation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deobibila&repo=python-jupyter-book-recommendation" /></a>
 </p>
 
