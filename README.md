@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 - 💬 Ask me about my favorite animated movie, anyway it's [The Amazing World of Gumball](https://www.google.com/search?q=The+Amazing+World+of+Gumball)
 
-- ⚡ Fun fact
-  I speak two languages, but you'll never guess which ones
+- ⚡ Random Quote I like:
+  You will never know the value of a moment until it becomes a memory.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
