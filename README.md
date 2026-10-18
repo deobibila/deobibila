@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 <h1 align="center">¡Hola! 👋, Hello!👋, Salut!👋</h1>
 <h3 align="center">Welcome to My GitHub Page, I guess :) </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deobibila&label=Profile%20views&color=0e75b6&style=flat" alt="deobibila" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=deobibila&label=Profile%20views&color=0e75b6&style=flat" alt="deobibila" />
+</p>
 
 - 🔭 I’m currently working on some personal projects and trying to contribute to open source (yes for fun)
 
