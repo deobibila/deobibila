@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about computers and love solving pr
 
 - I’m currently exploring Computing systems and Machine learning
 
-- My favorite animated movie: [The Amazing World of Gumball](https://www.google.com/search?q=The+Amazing+World+of+Gumball)
+- My favorite animated movie/show: [The Amazing World of Gumball](https://www.google.com/search?q=The+Amazing+World+of+Gumball)
 
 - Random Quote I like:
   You will never know the value of a moment until it becomes a memory.
