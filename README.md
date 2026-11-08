@@ -33,5 +33,5 @@ Welcome to my GitHub profile! I'm passionate about computers and love solving pr
 
 ## 🌟 Projects
 
-- [Hotel Reservation](https://github.com/deobibila/Hotel-Booking): Check availability and rent a hotel room ().
+- [](https://github.com/deobibila/: Check blah blah blah ().
 
